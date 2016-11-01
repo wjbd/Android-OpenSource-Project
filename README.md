@@ -4,7 +4,7 @@
 ---|---
 [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) |右滑退出页面
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| Android进度加载条
-[Material-Dialogs](https://github.com/afollestad/material-dialogs)|符合Mater-Design设计规范的Dialog
+[Material-Dialogs](https://github.com/afollestad/material-dialogs)|符合Material-Design设计规范的Dialog
 [Android-Ultra-Pull-To-Refresh-With-Load-More](https://github.com/captainbupt/android-Ultra-Pull-To-Refresh-With-Load-More)|支持上拉加载的Ultra-Pull-To-Refresh
 [Butterknife](https://github.com/JakeWharton/butterknife)|强大的注解库
 [Material-Ripple](https://github.com/balysv/material-ripple)|可以给控件加上水波纹
