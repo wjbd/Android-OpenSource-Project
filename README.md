@@ -13,6 +13,9 @@
 [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)|仿SwipeRefreshLayout的加载条
 [StatusBarUtil](https://github.com/laobie/StatusBarUtil)|Android状态栏管理工具
 [ImageCycleView](http://git.oschina.net/1011347848/ImageCycleView)|简单易用的无限循环的Viewpager
+[GreenDao](https://github.com/greenrobot/greenDAO)|Android中目前最强操作数据库
+[MultiStateView](https://github.com/Kennyc1012/MultiStateView)|根据其状态显示不同的内容的View
+[SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)|ListView左滑删除
 
 ## 下面是我收集的一些开源APP
 项目名称 | 项目简介
@@ -20,5 +23,8 @@
 [Elephant](https://github.com/Freelander/Elephant)| RxJava + Retrofit + Material-Design设计风格的新闻阅读APP
 [Ting](https://github.com/Freelander/Ting)| Materrial-Design设计风格的音乐播放APP
 [RxZhihuPager](https://github.com/Diffey/RxZhihuPager)|RxJava + Retrofit的知乎日报客户端
+## 下面是我收集的一些实用网址
+- [Android Studio小技巧和快捷键](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
+
 
 我会不断添加这个项目，希望大家也能帮助我完善。
